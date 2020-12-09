@@ -1,0 +1,56 @@
+
+Requisito Funcional
+  rf1) O Sistema deve permitir o cadastro de aluno
+  rf2) O Sistema deve permitir a atualização do cadastro do aluno
+  rf3)
+  
+Requisito Nao Funcional
+  rnf1) A consulta de livro não deve demorar mais de 5 segundos
+  rnf2) O acesso do sistema deve ser feito por login e senha individual por aluno
+  rnf3)...
+  
+Regra de Negocio
+  r1) O sistema deve validar o CPF (rf1, rf2);
+  r2) O sistema deve validar campos obrigatórios(rf1, rf2, rnf2);
+
+  
+  
+  Projeto Escola Renata Graziano
+
+Requisitos funcionais e não funcionais
+Requisitos funcionais:
+
+RF1.	O sistema deve conter um Web site da escola.
+RF2.	 Deve conter cadastro dos alunos.
+RF3.	Deve conter os cadastros dos livros da biblioteca.
+RF4.	No web site deve se ter uma página de administrador.
+RF5.	Dentro do site deve conter uma parte de alertas, para que a escola informe dos acontecimentos da escola nos respectivos horários de manhã, tarde e noite.
+RF6.	Deve conter um portfólio da parte cultura da escola que conterá fotos da escola ou vídeos mostrando as atividades que foram feitas.
+RF7.	 Deve conter uma parte sobre os assuntos da escola que aconteceram durante a história da escola.
+RF8.	Deverá conter uma parte mostrando as fotos dos diretores.
+RF9.	Deverá conter um fórum para que os alunos entrem em contato com a escola.
+RF10.   O sistema devera mostrar os livros que estão disponiveis para o aluno pegar.
+RF11.   O sistema deve listar todos os alunos que pegaram livros.
+RF12.   O sistema deve ter uma introdução dos livros.
+RF13.   O sistema deve 
+
+Requisitos não funcionais:
+RNF1.	
+
+Regras de Negocio:
+
+RDN1. O sistema deve validar o cpf.
+RDN2. O sistema deve validar a senha
+RDN3. O sistema deve validar email.
+RDN4. O sistema deve validar o CEP.
+RDN5. O sistema deve fazer o cadastro dos alunos
+RDN6. O sistema deve mostra uma mensagem quando o login for cadastrado.
+RDN7. O Sistema deve mostrar uma mensagem quando cadastrar o livro.
+RDN8. O sistema ter um login de administrador do site.
+RDN9. O sistema deve permitir o administrador alterar atributos dos sites.
+RDN10. O sistema devera validar o codigo do livro.
+RDN11. O sistema devera mostrar uma mensagem de validação do codigo do livro.
+RDN12. O sistema devera mostrar os livros que estão disponiveis para o aluno pegar.
+
+
+
